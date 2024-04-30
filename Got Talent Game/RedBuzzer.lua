@@ -1,0 +1,6 @@
+script.Parent.ClickDetector.MouseClick:Connect(function()
+	game.Workspace.X2.Part.BrickColor = BrickColor.new("Really red")
+	game.Workspace.X2.Part1.BrickColor = BrickColor.new("Really red")
+	game.Workspace.XX2.Part.BrickColor = BrickColor.new("Really red")
+	game.Workspace.XX2.Part1.BrickColor = BrickColor.new("Really red")
+end)
